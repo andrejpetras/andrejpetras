@@ -10,11 +10,10 @@
 [<img align="left" alt="andrejpetras | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
-Go | Java | Quarkus | SQL | Javascript | BPMN2 (Camunda) | Git
+Java | Quarkus | Go | ArgoCD | K8s | SQL | Javascript | BPMN2 (Camunda) | Git
 
 In the old days:
 
