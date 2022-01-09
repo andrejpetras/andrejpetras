@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Andrej 👋
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -14,6 +18,9 @@ Go | Java | Quarkus | SQL | Javascript | BPMN2 (Camunda) | Git
 
 BPMN2 (JBPM) | Wildfly | Object-C | C# | PLSQL | C++ | C | Pascal
 
+
+[twitter]: https://twitter.com/andrejpetras
+[linkedin]: https://linkedin.com/in/andrejpetras
 
 <!--
 **andrejpetras/andrejpetras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
