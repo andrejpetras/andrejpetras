@@ -15,9 +15,18 @@
 
 Java | Quarkus | Go | ArgoCD | K8s | SQL | Javascript | BPMN2 (Camunda) | Git
 
-In the old days:
 
-BPMN2 (JBPM) | Wildfly | Object-C | C# | PLSQL | C++ | C | Pascal
+<img align="left" alt="Intellij IDEA" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" />
+<img align="left" alt="GoLand" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.svg" />
+<img align="left" alt="Clion" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" />    
+<br />
+<br />
+<br />
+
+---
+In the old days: BPMN2 (JBPM) | Wildfly | Object-C | C# | PLSQL | C++ | C | Pascal
+
+
 
 
 [twitter]: https://twitter.com/andrejpetras
