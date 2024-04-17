@@ -15,7 +15,7 @@
 
 [Java](https://openjdk.org/) | [Quarkus](https://quarkus.io/) | [Go](https://go.dev/) | [Camunda 8 (BPMN2)](https://docs.camunda.io/) | [Kubernetes](https://kubernetes.io/de/) | [ArgoCD](https://argoproj.github.io/cd/) | [Git](https://git-scm.com/) | [SQL](https://en.wikipedia.org/wiki/SQL)
 
-I am also currently interested in: [Rust](https://www.rust-lang.org/) | [Zig](https://ziglang.org/)
+I am also currently interested in: [Rust](https://www.rust-lang.org/) | [Zig](https://ziglang.org/) | [htmx](https://htmx.org/)
 
 <img align="left" alt="Intellij IDEA" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" />
 <img align="left" alt="GoLand" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.svg" />
