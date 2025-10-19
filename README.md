@@ -17,9 +17,6 @@
 
 I am also currently interested in: [Zig](https://ziglang.org/) | [htmx](https://htmx.org/) | [Rust](https://www.rust-lang.org/)
 
-<img align="left" alt="Intellij IDEA" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" />
-<img align="left" alt="GoLand" width="64px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.svg" />
-
 <br />
 <br />
 <br />
