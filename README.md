@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-[Java](https://openjdk.org/) | [Quarkus](https://quarkus.io/) | [Go](https://go.dev/) | [Camunda 8 (BPMN2)](https://docs.camunda.io/) | [Kubernetes](https://kubernetes.io/de/) | [ArgoCD](https://argoproj.github.io/cd/) | [Git](https://git-scm.com/) | [SQL](https://en.wikipedia.org/wiki/SQL)
+[Java](https://openjdk.org/) | [Quarkus](https://quarkus.io/) | [Go](https://go.dev/) | [Kubernetes](https://kubernetes.io/de/) | [ArgoCD](https://argoproj.github.io/cd/) | [Git](https://git-scm.com/) | [SQL](https://en.wikipedia.org/wiki/SQL)
 
 I am also currently interested in: [Zig](https://ziglang.org/) | [htmx](https://htmx.org/) | [Rust](https://www.rust-lang.org/)
 
@@ -22,7 +22,7 @@ I am also currently interested in: [Zig](https://ziglang.org/) | [htmx](https://
 <br />
 
 ---
-In the old days: [SvelteKit](https://kit.svelte.dev/) |  [Javascript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) | BPMN2 (JBPM) | Wildfly | Object-C | C# | PLSQL | C++ | C | Pascal
+In the old days: [SvelteKit](https://kit.svelte.dev/) |  [Javascript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) | BPMN2 (JBPM) | Wildfly | Object-C | C# | PLSQL | C++ | C | Pascal | [Camunda 8 (BPMN2)](https://docs.camunda.io/)
 
 
 
